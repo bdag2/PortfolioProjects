@@ -1,4 +1,5 @@
 ## Portfolio Projects
+### Table of Contents
 ### Project Overview
 ### Data Sources
 data source
@@ -10,4 +11,10 @@ data source
 
 ### Data Cleaning / Preparation
 Steps that you follow
-###
+### Exploratory Data Analysis
+### Data Analysis
+### Results / Findinds
+### Reccommendations
+### Limitations
+
+

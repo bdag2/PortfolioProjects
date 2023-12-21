@@ -4,6 +4,10 @@
 data source
 ### Tools
 
-Excel - Daa Cleaning
-SQL Server - Data Analysis
+- Excel  Data Cleaning [excel file - link]
+- SQL Server Data Analysis [link]
+- Power BI Creating Reports [Link]
 
+### Data Cleaning / Preparation
+Steps that you follow
+###
